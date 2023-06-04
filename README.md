@@ -1,10 +1,10 @@
-#EXP-10 Data Science Process on Complex Dataset
+# EXP-10 Data Science Process on Complex Dataset
 
-#AIM
+# AIM
 
 To Perform Data Science Process on a complex dataset and save the data to a file.
 
-#ALGORITHM
+# ALGORITHM
 
 Step 1 Read the given Data
 
@@ -197,6 +197,6 @@ sns.heatmap(df.corr(),annot=True)
 ![image](https://github.com/nivetharajaa/Ex-10/assets/120543388/d8f2756d-5bd0-421a-b1c0-1e73b711df14)
 
 
-#RESULT
+# RESULT
 
 Thus Data Science Process on a complex dataset was performed successfully.
